@@ -50,15 +50,15 @@ _[number] refers to the wiki number, set by the order in your vimrc. The default
 
 ## Text objects
 
-`ah`	section between 2 headings including empty trailing lines
-`ih`	section between 2 headings excluding empty trailing lines
-`a\`	table cell
-`i\`	inner table cell
-`ac`	table column
-`ic`	inner table column
+- `ah`	section between 2 headings including empty trailing lines
+- `ih`	section between 2 headings excluding empty trailing lines
+- `a\`	table cell
+- `i\`	inner table cell
+- `ac`	table column
+- `ic`	inner table column
 
 ## Miscellaneous
 
- Use :VWS /term/ to search.
- Use :lopen to see all results.
- :VimwikiAll2HTML -- Convert all your wiki links to HTML
+ - Use :VWS /term/ to search.
+ - Use :lopen to see all results.
+ - :VimwikiAll2HTML -- Convert all your wiki links to HTML
