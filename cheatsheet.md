@@ -59,6 +59,6 @@ _[number] refers to the wiki number, set by the order in your vimrc. The default
 
 ## Miscellaneous
 
- Use :VWS /term/ to search. 
- Use :lopen to see all results
+ Use :VWS /term/ to search.
+ Use :lopen to see all results.
  :VimwikiAll2HTML -- Convert all your wiki links to HTML
