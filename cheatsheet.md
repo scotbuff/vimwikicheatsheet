@@ -56,3 +56,9 @@ _[number] refers to the wiki number, set by the order in your vimrc. The default
 `i\`	inner table cell
 `ac`	table column
 `ic`	inner table column
+
+## Miscellaneous
+
+ Use :VWS /term/ to search. 
+ Use :lopen to see all results
+ :VimwikiAll2HTML -- Convert all your wiki links to HTML
