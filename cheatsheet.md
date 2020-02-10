@@ -56,6 +56,14 @@ _[number] refers to the wiki number, set by the order in your vimrc. The default
 - `i\`	inner table cell
 - `ac`	table column
 - `ic`	inner table column
+## Todo List Options
+The symbol between [ ] depends on the percentage of toggled
+child items (see also |g:vimwiki_listsyms|): >
+-    [ ] -- 0%
+-    [.] -- 1-33%
+-    [o] -- 34-66%
+-    [O] -- 67-99%
+-    [X] -- 100%
 
 ## Miscellaneous
 
